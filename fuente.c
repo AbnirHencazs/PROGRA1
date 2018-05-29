@@ -1,3 +1,5 @@
+//autor: Brian Sanchez PROGRAMACION 1 Verano 2018
+
 #include <stdio.h>
 #include <string.h>
 int main()
